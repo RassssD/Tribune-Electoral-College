@@ -1,0 +1,701 @@
+"Year","State","Votes","Population"
+1960,"Alabama",11,3266740
+1972,"Alabama",9,3540080
+1976,"Alabama",9,3737204
+1980,"Alabama",9,3893888
+1984,"Alabama",9,3951824
+1988,"Alabama",9,4023842
+1992,"Alabama",9,4154014
+1996,"Alabama",9,4331102
+2000,"Alabama",9,4447100
+2004,"Alabama",9,4530729
+2008,"Alabama",9,4718206
+2012,"Alabama",9,4816632
+2016,"Alabama",9,4866824
+2020,"Alabama",9,5024279
+1960,"Alaska",3,226167
+1972,"Alaska",3,326494
+1976,"Alaska",3,393115
+1980,"Alaska",3,401851
+1984,"Alaska",3,513704
+1988,"Alaska",3,541984
+1992,"Alaska",3,588736
+1996,"Alaska",3,608569
+2000,"Alaska",3,626932
+2004,"Alaska",3,659286
+2008,"Alaska",3,687455
+2012,"Alaska",3,730810
+2016,"Alaska",3,742575
+2020,"Alaska",3,733391
+1960,"Arizona",4,1302161
+1972,"Arizona",6,2008847
+1976,"Arizona",6,2347976
+1980,"Arizona",6,2718215
+1984,"Arizona",7,3067134
+1988,"Arizona",7,3535183
+1992,"Arizona",8,3915740
+1996,"Arizona",8,4586940
+2000,"Arizona",8,5130632
+2004,"Arizona",10,5652404
+2008,"Arizona",10,6280362
+2012,"Arizona",11,6556344
+2016,"Arizona",11,6944767
+2020,"Arizona",11,7151502
+1960,"Arkansas",8,1786272
+1972,"Arkansas",6,2018116
+1976,"Arkansas",6,2168688
+1980,"Arkansas",6,2286435
+1984,"Arkansas",6,2319767
+1988,"Arkansas",6,2342655
+1992,"Arkansas",6,2415984
+1996,"Arkansas",6,2572109
+2000,"Arkansas",6,2673400
+2004,"Arkansas",6,2749686
+2008,"Arkansas",6,2874554
+2012,"Arkansas",6,2952876
+2016,"Arkansas",6,2991815
+2020,"Arkansas",6,3011524
+1960,"California",32,15717204
+1972,"California",45,20584794
+1976,"California",45,21934505
+1980,"California",45,23667902
+1984,"California",47,25844397
+1988,"California",47,28464250
+1992,"California",54,30974659
+1996,"California",54,32018834
+2000,"California",54,33871648
+2004,"California",55,35574576
+2008,"California",55,36604337
+2012,"California",55,37944551
+2016,"California",55,39149186
+2020,"California",55,39538223
+1960,"Colorado",6,1753947
+1972,"Colorado",7,2404576
+1976,"Colorado",7,2632244
+1980,"Colorado",7,2889964
+1984,"Colorado",8,3169995
+1988,"Colorado",8,3262280
+1992,"Colorado",8,3495939
+1996,"Colorado",8,3919972
+2000,"Colorado",8,4301261
+2004,"Colorado",9,4575013
+2008,"Colorado",9,4889730
+2012,"Colorado",9,5193660
+2016,"Colorado",9,5543844
+2020,"Colorado",9,5773714
+1960,"Connecticut",8,2535234
+1972,"Connecticut",8,3069617
+1976,"Connecticut",8,3085984
+1980,"Connecticut",8,3107576
+1984,"Connecticut",8,3180014
+1988,"Connecticut",8,3271954
+1992,"Connecticut",8,3300712
+1996,"Connecticut",8,3336685
+2000,"Connecticut",8,3405565
+2004,"Connecticut",7,3496094
+2008,"Connecticut",7,3545579
+2012,"Connecticut",7,3595211
+2016,"Connecticut",7,3579830
+2020,"Connecticut",7,3605944
+1960,"Delaware",3,446292
+1972,"Delaware",3,573821
+1976,"Delaware",3,592755
+1980,"Delaware",3,594338
+1984,"Delaware",3,611565
+1988,"Delaware",3,647621
+1992,"Delaware",3,694925
+1996,"Delaware",3,740977
+2000,"Delaware",3,783600
+2004,"Delaware",3,830803
+2008,"Delaware",3,883874
+2012,"Delaware",3,915518
+2016,"Delaware",3,949989
+2020,"Delaware",3,989948
+1960,"Florida",10,4951560
+1972,"Florida",17,7520324
+1976,"Florida",17,8695356
+1980,"Florida",17,9746324
+1984,"Florida",21,11039925
+1988,"Florida",21,12306400
+1992,"Florida",25,13650553
+1996,"Florida",25,14853360
+2000,"Florida",25,15982378
+2004,"Florida",27,17415318
+2008,"Florida",27,18527305
+2012,"Florida",29,19302016
+2016,"Florida",29,20627237
+2020,"Florida",29,21538187
+1960,"Georgia",12,3943116
+1972,"Georgia",12,4807151
+1976,"Georgia",12,5126155
+1980,"Georgia",12,5463105
+1984,"Georgia",12,5834943
+1988,"Georgia",12,6316139
+1992,"Georgia",13,6817203
+1996,"Georgia",13,7501069
+2000,"Georgia",13,8186453
+2004,"Georgia",15,8769252
+2008,"Georgia",15,9504843
+2012,"Georgia",16,9903580
+2016,"Georgia",16,10308442
+2020,"Georgia",16,10711908
+1960,"Hawaii",3,632772
+1972,"Hawaii",4,818104
+1976,"Hawaii",4,892335
+1980,"Hawaii",4,964691
+1984,"Hawaii",4,1027922
+1988,"Hawaii",4,1079827
+1992,"Hawaii",4,1158613
+1996,"Hawaii",4,1203755
+2000,"Hawaii",4,1211537
+2004,"Hawaii",4,1273569
+2008,"Hawaii",4,1332213
+2012,"Hawaii",4,1395199
+2016,"Hawaii",4,1428885
+2020,"Hawaii",4,1455271
+1960,"Idaho",4,667191
+1972,"Idaho",4,763229
+1976,"Idaho",4,856979
+1980,"Idaho",4,943935
+1984,"Idaho",4,990841
+1988,"Idaho",4,985661
+1992,"Idaho",4,1071685
+1996,"Idaho",4,1203083
+2000,"Idaho",4,1293953
+2004,"Idaho",4,1391802
+2008,"Idaho",4,1534320
+2012,"Idaho",4,1595910
+2016,"Idaho",4,1684036
+2020,"Idaho",4,1839106
+1960,"Illinois",27,10081158
+1972,"Illinois",26,11258111
+1976,"Illinois",26,11360274
+1980,"Illinois",26,11426518
+1984,"Illinois",24,11412128
+1988,"Illinois",24,11390186
+1992,"Illinois",22,11694184
+1996,"Illinois",22,12101997
+2000,"Illinois",22,12419293
+2004,"Illinois",21,12589773
+2008,"Illinois",21,12747038
+2012,"Illinois",20,12883029
+2016,"Illinois",20,12821709
+2020,"Illinois",20,12812508
+1960,"Indiana",13,4662498
+1972,"Indiana",13,5296129
+1976,"Indiana",13,5371552
+1980,"Indiana",13,5490224
+1984,"Indiana",12,5458322
+1988,"Indiana",12,5491733
+1992,"Indiana",12,5674547
+1996,"Indiana",12,5906013
+2000,"Indiana",12,6080485
+2004,"Indiana",11,6233007
+2008,"Indiana",11,6424806
+2012,"Indiana",11,6538989
+2016,"Indiana",11,6637898
+2020,"Indiana",11,6785528
+1960,"Iowa",10,2757537
+1972,"Iowa",8,2860506
+1976,"Iowa",8,2903770
+1980,"Iowa",8,2913808
+1984,"Iowa",8,2858615
+1988,"Iowa",8,2768393
+1992,"Iowa",7,2818401
+1996,"Iowa",7,2880000
+2000,"Iowa",7,2926324
+2004,"Iowa",7,2953635
+2008,"Iowa",7,3016734
+2012,"Iowa",6,3076844
+2016,"Iowa",6,3133210
+2020,"Iowa",6,3190369
+1960,"Kansas",8,2178611
+1972,"Kansas",7,2255525
+1976,"Kansas",7,2298645
+1980,"Kansas",7,2363679
+1984,"Kansas",7,2424088
+1988,"Kansas",7,2461995
+1992,"Kansas",6,2532394
+1996,"Kansas",6,2614554
+2000,"Kansas",6,2688418
+2004,"Kansas",6,2734373
+2008,"Kansas",6,2808076
+2012,"Kansas",6,2886024
+2016,"Kansas",6,2912977
+2020,"Kansas",6,2937880
+1960,"Kentucky",10,3038156
+1972,"Kentucky",9,3336106
+1976,"Kentucky",9,3530443
+1980,"Kentucky",9,3660777
+1984,"Kentucky",9,3695459
+1988,"Kentucky",9,3680002
+1992,"Kentucky",8,3765469
+1996,"Kentucky",8,3919535
+2000,"Kentucky",8,4041769
+2004,"Kentucky",8,4146101
+2008,"Kentucky",8,4289878
+2012,"Kentucky",8,4387865
+2016,"Kentucky",8,4440306
+2020,"Kentucky",8,4505836
+1960,"Louisiana",10,3257022
+1972,"Louisiana",10,3761967
+1976,"Louisiana",10,3951636
+1980,"Louisiana",10,4205900
+1984,"Louisiana",10,4400474
+1988,"Louisiana",10,4288859
+1992,"Louisiana",9,4293003
+1996,"Louisiana",9,4398877
+2000,"Louisiana",9,4468976
+2004,"Louisiana",9,4552238
+2008,"Louisiana",9,4435586
+2012,"Louisiana",8,4602067
+2016,"Louisiana",8,4681346
+2020,"Louisiana",8,4657757
+1960,"Maine",5,969265
+1972,"Maine",4,1034817
+1976,"Maine",4,1089960
+1980,"Maine",4,1124660
+1984,"Maine",4,1155634
+1988,"Maine",4,1203840
+1992,"Maine",4,1238508
+1996,"Maine",4,1249060
+2000,"Maine",4,1274923
+2004,"Maine",4,1313688
+2008,"Maine",4,1330509
+2012,"Maine",4,1328094
+2016,"Maine",4,1332348
+2020,"Maine",4,1362359
+1960,"Maryland",9,3100689
+1972,"Maryland",10,4081121
+1976,"Maryland",10,4172132
+1980,"Maryland",10,4216975
+1984,"Maryland",10,4365246
+1988,"Maryland",10,4657903
+1992,"Maryland",10,4923368
+1996,"Maryland",10,5111986
+2000,"Maryland",10,5296486
+2004,"Maryland",10,5546935
+2008,"Maryland",10,5684965
+2012,"Maryland",10,5888375
+2016,"Maryland",10,6007014
+2020,"Maryland",10,6177224
+1960,"Massachusetts",16,5148578
+1972,"Massachusetts",14,5762122
+1976,"Massachusetts",14,5748868
+1980,"Massachusetts",14,5737037
+1984,"Massachusetts",13,5840774
+1988,"Massachusetts",13,5979983
+1992,"Massachusetts",12,6028709
+1996,"Massachusetts",12,6179756
+2000,"Massachusetts",12,6349097
+2004,"Massachusetts",12,6412281
+2008,"Massachusetts",12,6468967
+2012,"Massachusetts",11,6664269
+2016,"Massachusetts",11,6827280
+2020,"Massachusetts",11,7029917
+1960,"Michigan",20,7823194
+1972,"Michigan",21,9024681
+1976,"Michigan",21,9117481
+1980,"Michigan",21,9262078
+1984,"Michigan",20,9049454
+1988,"Michigan",20,9218002
+1992,"Michigan",18,9479065
+1996,"Michigan",18,9758645
+2000,"Michigan",18,9938444
+2004,"Michigan",17,10055315
+2008,"Michigan",17,9946889
+2012,"Michigan",16,9898289
+2016,"Michigan",16,9954117
+2020,"Michigan",16,10077331
+1960,"Minnesota",11,3413864
+1972,"Minnesota",10,3866878
+1976,"Minnesota",10,3956602
+1980,"Minnesota",10,4075970
+1984,"Minnesota",10,4157704
+1988,"Minnesota",10,4296163
+1992,"Minnesota",10,4495572
+1996,"Minnesota",10,4712827
+2000,"Minnesota",10,4919479
+2004,"Minnesota",10,5087713
+2008,"Minnesota",10,5247018
+2012,"Minnesota",10,5377500
+2016,"Minnesota",10,5525360
+2020,"Minnesota",10,5706494
+1960,"Mississippi",8,2178141
+1972,"Mississippi",7,2307291
+1976,"Mississippi",7,2430324
+1980,"Mississippi",7,2520638
+1984,"Mississippi",7,2578053
+1988,"Mississippi",7,2580349
+1992,"Mississippi",7,2623734
+1996,"Mississippi",7,2748085
+2000,"Mississippi",7,2844658
+2004,"Mississippi",6,2889010
+2008,"Mississippi",6,2947806
+2012,"Mississippi",6,2984599
+2016,"Mississippi",6,2990595
+2020,"Mississippi",6,2961279
+1960,"Missouri",13,4319813
+1972,"Missouri",12,4753234
+1976,"Missouri",12,4823554
+1980,"Missouri",12,4916686
+1984,"Missouri",11,4975276
+1988,"Missouri",11,5081737
+1992,"Missouri",11,5217101
+1996,"Missouri",11,5431553
+2000,"Missouri",11,5595211
+2004,"Missouri",11,5747741
+2008,"Missouri",11,5923916
+2012,"Missouri",10,6026027
+2016,"Missouri",10,6091384
+2020,"Missouri",10,6154913
+1960,"Montana",4,674767
+1972,"Montana",4,719138
+1976,"Montana",4,758521
+1980,"Montana",4,786690
+1984,"Montana",4,820904
+1988,"Montana",4,800200
+1992,"Montana",3,825770
+1996,"Montana",3,886254
+2000,"Montana",3,902195
+2004,"Montana",3,930009
+2008,"Montana",3,976415
+2012,"Montana",3,1004168
+2016,"Montana",3,1042137
+2020,"Montana",3,1084225
+1960,"Nebraska",6,1411330
+1972,"Nebraska",5,1518293
+1976,"Nebraska",5,1548901
+1980,"Nebraska",5,1569825
+1984,"Nebraska",5,1588638
+1988,"Nebraska",5,1571477
+1992,"Nebraska",5,1611687
+1996,"Nebraska",5,1673740
+2000,"Nebraska",5,1711263
+2004,"Nebraska",5,1749370
+2008,"Nebraska",5,1796378
+2012,"Nebraska",5,1853691
+2016,"Nebraska",5,1906483
+2020,"Nebraska",5,1961504
+1960,"Nevada",3,285278
+1972,"Nevada",3,546736
+1976,"Nevada",3,646823
+1980,"Nevada",3,800493
+1984,"Nevada",4,924921
+1988,"Nevada",4,1075023
+1992,"Nevada",4,1351367
+1996,"Nevada",4,1666320
+2000,"Nevada",4,1998257
+2004,"Nevada",5,2346222
+2008,"Nevada",5,2653630
+2012,"Nevada",6,2744670
+2016,"Nevada",6,2919555
+2020,"Nevada",6,3104614
+1960,"New Hampshire",4,606921
+1972,"New Hampshire",4,781699
+1976,"New Hampshire",4,847025
+1980,"New Hampshire",4,920610
+1984,"New Hampshire",4,976863
+1988,"New Hampshire",4,1082576
+1992,"New Hampshire",4,1117784
+1996,"New Hampshire",4,1174719
+2000,"New Hampshire",4,1235786
+2004,"New Hampshire",4,1290121
+2008,"New Hampshire",4,1315906
+2012,"New Hampshire",4,1324677
+2016,"New Hampshire",4,1343694
+2020,"New Hampshire",4,1377529
+1960,"New Jersey",16,6066782
+1972,"New Jersey",17,7336538
+1976,"New Jersey",17,7344079
+1980,"New Jersey",17,7364823
+1984,"New Jersey",16,7515474
+1988,"New Jersey",16,7712333
+1992,"New Jersey",15,7880508
+1996,"New Jersey",15,8149596
+2000,"New Jersey",15,8414350
+2004,"New Jersey",15,8634561
+2008,"New Jersey",15,8711090
+2012,"New Jersey",14,8845671
+2016,"New Jersey",14,8873584
+2020,"New Jersey",14,9288994
+1960,"New Mexico",4,951023
+1972,"New Mexico",4,1077815
+1976,"New Mexico",4,1195162
+1980,"New Mexico",4,1302894
+1984,"New Mexico",5,1416719
+1988,"New Mexico",5,1490336
+1992,"New Mexico",5,1595442
+1996,"New Mexico",5,1752326
+2000,"New Mexico",5,1819046
+2004,"New Mexico",5,1903808
+2008,"New Mexico",5,2010662
+2012,"New Mexico",5,2087715
+2016,"New Mexico",5,2092555
+2020,"New Mexico",5,2117522
+1960,"New York",45,16782304
+1972,"New York",41,18351767
+1976,"New York",41,17974654
+1980,"New York",41,17558072
+1984,"New York",36,17745676
+1988,"New York",36,17941309
+1992,"New York",33,18246653
+1996,"New York",33,18588460
+2000,"New York",33,18976457
+2004,"New York",31,19171567
+2008,"New York",31,19212436
+2012,"New York",29,19574362
+2016,"New York",29,19636391
+2020,"New York",29,20201249
+1960,"North Carolina",14,4556155
+1972,"North Carolina",13,5296085
+1976,"North Carolina",13,5593463
+1980,"North Carolina",13,5881766
+1984,"North Carolina",13,6164004
+1988,"North Carolina",13,6480591
+1992,"North Carolina",14,6897214
+1996,"North Carolina",14,7500670
+2000,"North Carolina",14,8049313
+2004,"North Carolina",15,8553152
+2008,"North Carolina",15,9309449
+2012,"North Carolina",15,9751810
+2016,"North Carolina",15,10161802
+2020,"North Carolina",15,10439388
+1960,"North Dakota",4,632446
+1972,"North Dakota",3,630937
+1976,"North Dakota",3,645293
+1980,"North Dakota",3,652717
+1984,"North Dakota",3,680499
+1988,"North Dakota",3,655330
+1992,"North Dakota",3,638223
+1996,"North Dakota",3,650382
+2000,"North Dakota",3,642200
+2004,"North Dakota",3,644705
+2008,"North Dakota",3,657569
+2012,"North Dakota",3,702227
+2016,"North Dakota",3,756114
+2020,"North Dakota",3,779094
+1960,"Ohio",25,9706397
+1972,"Ohio",25,10746920
+1976,"Ohio",25,10752731
+1980,"Ohio",25,10797630
+1984,"Ohio",23,10737743
+1988,"Ohio",23,10798554
+1992,"Ohio",21,11029431
+1996,"Ohio",21,11242827
+2000,"Ohio",21,11353140
+2004,"Ohio",20,11452251
+2008,"Ohio",20,11515391
+2012,"Ohio",18,11550971
+2016,"Ohio",18,11640060
+2020,"Ohio",18,11799448
+1960,"Oklahoma",8,2328284
+1972,"Oklahoma",8,2657448
+1976,"Oklahoma",8,2823396
+1980,"Oklahoma",8,3025290
+1984,"Oklahoma",8,3285535
+1988,"Oklahoma",8,3167064
+1992,"Oklahoma",8,3220517
+1996,"Oklahoma",8,3340129
+2000,"Oklahoma",8,3450654
+2004,"Oklahoma",7,3525233
+2008,"Oklahoma",7,3668976
+2012,"Oklahoma",7,3819320
+2016,"Oklahoma",7,3928143
+2020,"Oklahoma",7,3959353
+1960,"Oregon",6,1768687
+1972,"Oregon",6,2195219
+1976,"Oregon",6,2372155
+1980,"Oregon",6,2633105
+1984,"Oregon",7,2666589
+1988,"Oregon",7,2741297
+1992,"Oregon",7,2991755
+1996,"Oregon",7,3247111
+2000,"Oregon",7,3421399
+2004,"Oregon",7,3569463
+2008,"Oregon",7,3768748
+2012,"Oregon",7,3900102
+2016,"Oregon",7,4093271
+2020,"Oregon",7,4237256
+1960,"Pennsylvania",32,11319366
+1972,"Pennsylvania",27,11904541
+1976,"Pennsylvania",27,11887478
+1980,"Pennsylvania",27,11863895
+1984,"Pennsylvania",25,11815175
+1988,"Pennsylvania",25,11845755
+1992,"Pennsylvania",23,12049450
+1996,"Pennsylvania",23,12220464
+2000,"Pennsylvania",23,12281054
+2004,"Pennsylvania",21,12410722
+2008,"Pennsylvania",21,12612285
+2012,"Pennsylvania",20,12769123
+2016,"Pennsylvania",20,12788468
+2020,"Pennsylvania",20,13002700
+1960,"Rhode Island",4,859488
+1972,"Rhode Island",4,976365
+1976,"Rhode Island",4,950321
+1980,"Rhode Island",4,947154
+1984,"Rhode Island",4,961895
+1988,"Rhode Island",4,996407
+1992,"Rhode Island",4,1012581
+1996,"Rhode Island",4,1020893
+2000,"Rhode Island",4,1048319
+2004,"Rhode Island",4,1074579
+2008,"Rhode Island",4,1055003
+2012,"Rhode Island",4,1054893
+2016,"Rhode Island",4,1057816
+2020,"Rhode Island",4,1097379
+1960,"South Carolina",8,2382594
+1972,"South Carolina",8,2718404
+1976,"South Carolina",8,2941407
+1980,"South Carolina",8,3121820
+1984,"South Carolina",8,3271864
+1988,"South Carolina",8,3412097
+1992,"South Carolina",8,3620464
+1996,"South Carolina",8,3796200
+2000,"South Carolina",8,4012012
+2004,"South Carolina",8,4210921
+2008,"South Carolina",8,4528996
+2012,"South Carolina",9,4719027
+2016,"South Carolina",9,4963031
+2020,"South Carolina",9,5118425
+1960,"South Dakota",4,680514
+1972,"South Dakota",4,677389
+1976,"South Dakota",4,686843
+1980,"South Dakota",4,690768
+1984,"South Dakota",3,697250
+1988,"South Dakota",3,698160
+1992,"South Dakota",3,712801
+1996,"South Dakota",3,742213
+2000,"South Dakota",3,754844
+2004,"South Dakota",3,770396
+2008,"South Dakota",3,799124
+2012,"South Dakota",3,833859
+2016,"South Dakota",3,863693
+2020,"South Dakota",3,886667
+1960,"Tennessee",11,3567089
+1972,"Tennessee",10,4088445
+1976,"Tennessee",10,4329160
+1980,"Tennessee",10,4591120
+1984,"Tennessee",11,4686743
+1988,"Tennessee",11,4822438
+1992,"Tennessee",11,5049742
+1996,"Tennessee",11,5416643
+2000,"Tennessee",11,5689283
+2004,"Tennessee",11,5910809
+2008,"Tennessee",11,6247411
+2012,"Tennessee",11,6455752
+2016,"Tennessee",11,6651277
+2020,"Tennessee",11,6910840
+1960,"Texas",24,9579677
+1972,"Texas",26,11758760
+1976,"Texas",26,12903268
+1980,"Texas",26,14229191
+1984,"Texas",29,16007088
+1988,"Texas",29,16667040
+1992,"Texas",32,17759738
+1996,"Texas",32,19340342
+2000,"Texas",32,20851820
+2004,"Texas",34,22394023
+2008,"Texas",34,24309039
+2012,"Texas",38,26084120
+2016,"Texas",38,27914064
+2020,"Texas",38,29145505
+1960,"Utah",4,890627
+1972,"Utah",4,1134601
+1976,"Utah",4,1272365
+1980,"Utah",4,1461037
+1984,"Utah",5,1622342
+1988,"Utah",5,1689372
+1992,"Utah",5,1836799
+1996,"Utah",5,2067976
+2000,"Utah",5,2233169
+2004,"Utah",5,2401580
+2008,"Utah",5,2663029
+2012,"Utah",6,2854146
+2016,"Utah",6,3044241
+2020,"Utah",6,3271616
+1960,"Vermont",3,389881
+1972,"Vermont",3,463214
+1976,"Vermont",3,485144
+1980,"Vermont",3,511456
+1984,"Vermont",3,526658
+1988,"Vermont",3,549763
+1992,"Vermont",3,572751
+1996,"Vermont",3,593701
+2000,"Vermont",3,608827
+2004,"Vermont",3,619920
+2008,"Vermont",3,624151
+2012,"Vermont",3,626361
+2016,"Vermont",3,624366
+2020,"Vermont",3,643077
+1960,"Virginia",12,3966949
+1972,"Virginia",12,4828131
+1976,"Virginia",12,5132693
+1980,"Virginia",12,5346818
+1984,"Virginia",12,5643868
+1988,"Virginia",12,6036908
+1992,"Virginia",13,6414307
+1996,"Virginia",13,6750884
+2000,"Virginia",13,7078515
+2004,"Virginia",13,7475575
+2008,"Virginia",13,7833496
+2012,"Virginia",13,8187456
+2016,"Virginia",13,8417651
+2020,"Virginia",13,8631393
+1960,"Washington",9,2853214
+1972,"Washington",9,3446815
+1976,"Washington",9,3690561
+1980,"Washington",9,4132156
+1984,"Washington",10,4343657
+1988,"Washington",10,4639894
+1992,"Washington",11,5160757
+1996,"Washington",11,5569753
+2000,"Washington",11,5894121
+2004,"Washington",11,6178645
+2008,"Washington",11,6562231
+2012,"Washington",12,6898599
+2016,"Washington",12,7299961
+2020,"Washington",12,7705281
+1960,"West Virginia",8,1860421
+1972,"West Virginia",6,1796910
+1976,"West Virginia",6,1877440
+1980,"West Virginia",6,1949644
+1984,"West Virginia",6,1927696
+1988,"West Virginia",6,1830213
+1992,"West Virginia",5,1806451
+1996,"West Virginia",5,1822808
+2000,"West Virginia",5,1808344
+2004,"West Virginia",5,1816438
+2008,"West Virginia",5,1840310
+2012,"West Virginia",5,1857446
+2016,"West Virginia",5,1832435
+2020,"West Virginia",5,1793716
+1960,"Wisconsin",12,3951777
+1972,"Wisconsin",11,4498433
+1976,"Wisconsin",11,4584688
+1980,"Wisconsin",11,4705767
+1984,"Wisconsin",11,4735571
+1988,"Wisconsin",11,4822391
+1992,"Wisconsin",11,5025398
+1996,"Wisconsin",11,5229986
+2000,"Wisconsin",11,5363675
+2004,"Wisconsin",10,5514026
+2008,"Wisconsin",10,5640996
+2012,"Wisconsin",10,5720825
+2016,"Wisconsin",10,5775170
+2020,"Wisconsin",10,5893718
+1960,"Wyoming",3,330066
+1972,"Wyoming",3,346863
+1976,"Wyoming",3,395446
+1980,"Wyoming",3,469557
+1984,"Wyoming",3,504895
+1988,"Wyoming",3,465103
+1992,"Wyoming",3,466251
+1996,"Wyoming",3,488167
+2000,"Wyoming",3,493782
+2004,"Wyoming",3,509106
+2008,"Wyoming",3,546043
+2012,"Wyoming",3,576656
+2016,"Wyoming",3,585243
+2020,"Wyoming",3,576851
